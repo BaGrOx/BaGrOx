@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @BaGrOx
-- 👀 I’m interested in football and programming
-- 🌱 I’m currently learning C# and .NET
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @BaGrOx.
+- 👀 I’m interested in football and programming.
+- 🌱 I’m currently learning C# and .NET.
+
 
 
 <!---
