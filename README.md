@@ -1,6 +1,6 @@
 Hi,
 I' m a 23 years old man. I have graduated Finance and accounting.
-Currently, I 'm study Informatics with specializa�on in programming. I regularly
+Currently, I 'm study Informatics with specialization in programming. I regularly
 develop in the direction of .NET technology. I try to devote every free moment to
 learn and develop towards programming.
 
